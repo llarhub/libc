@@ -1,5 +1,7 @@
+T Dl_info DlInfo
 T __double2 X__Double2
 T __float2 X__Float2
+T dl_info DlInfo
 T double_t DoubleT
 T exception Exception
 T float_t FloatT
